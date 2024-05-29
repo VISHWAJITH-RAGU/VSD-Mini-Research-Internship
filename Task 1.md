@@ -2,7 +2,7 @@
 
 ## Writing a C code to count the sum of numbers from 1 to n and running this program using RISC-V simulator
 
-##Writing a C code to count sum of numbers from 1 to n
+## Writing a C code to count sum of numbers from 1 to n
 
 ![image](https://github.com/VISHWAJITH-RAGU/VSD-Mini-Research-Internship/assets/115524986/da1d78a8-caa9-48c4-9545-f951dfa0ae5c)
 
