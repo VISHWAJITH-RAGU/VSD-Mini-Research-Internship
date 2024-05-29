@@ -2,6 +2,8 @@
 
 ## Writing a C code to count the sum of numbers from 1 to n and running this program using RISC-V simulator
 
+##Writing a C code to count sum of numbers from 1 to n
+
 ![image](https://github.com/VISHWAJITH-RAGU/VSD-Mini-Research-Internship/assets/115524986/da1d78a8-caa9-48c4-9545-f951dfa0ae5c)
 
 #### 1. First I opened terinal and wrote code to make and open a new C file in leafpad as shown below:
@@ -23,7 +25,9 @@
 ![image](https://github.com/VISHWAJITH-RAGU/VSD-Mini-Research-Internship/assets/115524986/f152f0fb-6da1-4adb-bf05-cee12ef897e9)
 
 ## Running above program in RISC-V Simulator
+
 #### Once I have ran the code in terminal, I need to run in RISC-V simulator so for that their is special set of code needed which I have done in following steps:
+
 #### 1. First I wrote a code to compile it with RISC-V gcc compiler with option 1 so it will generate a file with .o extension.
 
 ![image](https://github.com/VISHWAJITH-RAGU/VSD-Mini-Research-Internship/assets/115524986/f3fd6671-69f1-437d-985c-77187c4e506e)
