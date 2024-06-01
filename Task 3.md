@@ -12,7 +12,7 @@ using follwing command:-
 
     $ sudo apt install iverilog 
     
-   
+  ![Screenshot from 2024-05-31 15-02-55](https://github.com/VISHWAJITH-RAGU/VSD-Mini-Research-Internship/assets/115524986/5399c962-c922-467b-a5ad-39f0d7922b8f) 
 
 INSTALL GTKWAVE:
 using following command:-
