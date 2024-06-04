@@ -26,7 +26,7 @@ The project is designed to showcase the following:
 7. Connect the OUT of the MAX4466 Microphone to the PD4 pin on the CH32V003 Dev Board.
 
 ## Pinout Diagram
-![Circuit Diagram for MicroSpeak Project](image.png)
+![image](https://github.com/VISHWAJITH-RAGU/VSD-Mini-Research-Internship/assets/115524986/4b637307-07dd-4476-ab31-726524fd2a63)
 
 ## Table for Pin Connections
 
